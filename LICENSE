@@ -1,0 +1,19 @@
+This repository contains materials under different licenses.
+
+Code
+----
+The Python scraper is licensed under the MIT License.
+See LICENSE-CODE.
+
+Data and Dashboard
+------------------
+The datasets and Excel dashboard are licensed under CC BY 4.0,
+to the extent that copyright subsists in the project's original
+compilation, organization, and processing.
+See LICENSE-DATA.
+
+Source Material
+---------------
+The underlying attendance records were extracted from the House
+Journals of the Congress of the Philippines. No ownership of the
+underlying source material is claimed.
